@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Zoya Noor | Graphic Designer & Digital Creator</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:700,400|Poppins:400,600&display=swap" rel="stylesheet">
+</head>
+</a>
+<body>
+  <header>
+    <nav>
+      <a href="#" class="logo">
+        <img src="images/logo.png" alt="Creatix Studio" />
+      </a>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Portfolio</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="hero">
+      <h1>
+        <span class="heart-blow">Transforming <span class="highlight-word">Ideas</span> into <span class="highlight-word">Visual Masterpieces</span></span>
+      </h1>
+      <p class="subtitle">
+        Professional Graphic Designer & Digital Creator — Crafting Designs That Make Hearts Skip a Beat
+      </p>
+      <div class="contact-info">
+        <a href="mailto:zoyanoor4832@gmail.com" class="contact-item">✉ zoyanoor4832@gmail.com</a>
+        <a href="https://wa.me/923277901114?text=Hello!%20I%20want%20your%20services" target="_blank" class="cube-btn">Get in Touch</a>
+    </div>
+  </header>
+  <main>
+    <section class="intro">
+      <h2>About Me</h2>
+      <p>
+        I’m Zoya Noor, a passionate artist and digital creator. My design philosophy is to blend imagination with precision, turning every project into a visual story that resonates and inspires. Let’s elevate your brand with creativity that captivates!
+      </p>
+    </section>
+    <section class="highlight">
+      <h2>Featured Work</h2>
+      <div class="gallery">
+  <div class="gallery-item">
+    <img src="images/project 1.jpg" alt="Event Creative Poster">
+    <div class="caption">Event Creative Poster</div>
+  </div>
+  <div class="gallery-item">
+    <img src="images/project 2.jpg" alt="Awareness Campaign Poster">
+    <div class="caption">Awareness Campaign Poster</div>
+  </div>
+  <div class="gallery-item">
+    <img src="images/project 3.jpg" alt="Real Estate Advertisement">
+    <div class="caption">Real Estate Advertisement</div>
+  </div>
+  <div class="gallery-item">
+    <img src="images/project 4.jpg" alt="Real Estate Plot Booking Advertisement">
+    <div class="caption">Real Estate Plot Booking Advertisement</div>
+  </div>
+  <div class="gallery-item">
+    <img src="images/project 5.jpg" alt="Charity & Community Support Poster">
+    <div class="caption">Charity & Community Support Poster</div>
+  </div>
+  <div class="gallery-item">
+    <img src="images/project 6.jpg" alt="Housing Scheme Promotional Design">
+    <div class="caption">Housing Scheme Promotional Design</div>
+  </div> 
+  <div class="gallery-item">
+    <img src="images/project 7.jpg" alt="Social Media Design">
+    <div class="caption">Social Media Design</div>
+  </div>
+  <div class="gallery-item">
+    <img src="images/project 8.jpg" alt="Promotional Flyer">
+    <div class="caption">Promotion Flyer</div>
+  </div>
+  <div class="gallery-item">
+    <img src="images/project 9.jpg" alt="Advertisement Banner">
+    <div class="caption">Advertisement Banner</div>
+  </div>
+  <div class="gallery-item">
+    <img src="images/project 10.jpg" alt="Booking Advertisement">
+    <div class="caption">Booking Advertisement</div>
+  </div>
+  <div class="gallery-item">
+    <img src="images/project 11.jpg" alt="Property Advertisement"
+    <div class="caption">Property Advertisement</div>
+  </div>
+  <div class="gallery-item">
+    <img src="images/project 12.jpg" alt="Housing Scheme Promotional Design">
+    <div class="caption">Housing Scheme Promotional Design</div>
+  </div>
+</div>
+    </section>
+    <section class="thanks">
+      <div class="thanks-content">
+        <h2>Thank You!</h2>
+        <p>
+          Your time is precious, thank you for exploring my creative world.  
+          Your time and interest means a lot to me.<br>
+          If you wish to collaborate or have any queries, feel free to reach out!
+        </p>
+          <span class="thanks-highlight">Let’s create something beautiful together!</span>
+</a>
+      </div>
+      <div class="thanks-deco"></div>
+    </section>
+  </main>
+  <footer>
+    <p>© 2025 Zoya Noor | <a href="mailto:zoyanoor4832@gmail.com">zoyanoor4832@gmail.com</a> | ☎ 0327-7901114</p>
+  </footer>
+</body>
+</html
